@@ -1,3 +1,6 @@
+"""
+    Problem Link http://codeforces.com/contest/9/problem/A
+"""
 from fractions import Fraction
 Yakko, Wakko = map(int, input().split())
 
