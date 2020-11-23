@@ -5,7 +5,7 @@ import os
 import glob
 import re
 
-header = "#Problem Solving\n\n| Challenge | Solution |\n|:-------------:| :-----:|\n"
+header = "# Problem Solving\n\n| Challenge | Solution |\n|:-------------:| :-----:|\n"
 
 def get_name_from_file(file_name):
     name = file_name[0:file_name.find('.')]
