@@ -1,5 +1,6 @@
 /*
     Problem Link https://www.hackerrank.com/challenges/array-left-rotation/problem
+    Time Complexity = O(n) "Worst case senario"
 */
 #include <stdio.h>
 #include <stdlib.h>

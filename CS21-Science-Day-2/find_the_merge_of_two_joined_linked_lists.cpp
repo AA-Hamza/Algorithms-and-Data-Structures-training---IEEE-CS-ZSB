@@ -2,6 +2,8 @@
     Problem Link https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem
 
     The problem stated strictly that I should only change the function findMergeNode
+    
+    Time Complexity = O(n) where n = max(node1_length, node2_length) 
 */
 
 int findMergeNode(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {

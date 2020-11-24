@@ -1,5 +1,8 @@
 """
     Problem Link http://codeforces.com/contest/9/problem/A
+    Time Complexity = O(1)
+    Explanition: O(log(6))=O(1) cause gcd, which is used to simplify fraction, 
+                 is O(log(min(first_paramter, second_paramter))) & second_paramter is always 6 so it is O(1)
 """
 from fractions import Fraction
 Yakko, Wakko = map(int, input().split())

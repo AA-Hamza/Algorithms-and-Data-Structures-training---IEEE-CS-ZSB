@@ -1,6 +1,8 @@
 /*
     *Problem Link https://www.hackerrank.com/challenges/largest-rectangle/problem
     *This the second attempt to implement
+    Time Complexity = O(n^2)    but in general cases where they aren't all equal (worst case)
+                                it would be O((n^2)/2) & best case scenario is O(2n)=O(n)
 */
 
 #include <iostream>

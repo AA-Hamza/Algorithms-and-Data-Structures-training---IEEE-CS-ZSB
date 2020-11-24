@@ -2,6 +2,7 @@
 # Problem Link https://codeforces.com/contest/382/problem/A?csrf_token=4d09a8c581f1c0a15d0a42f90d248f6e
 #
 # Not so proud of it but gets the job done
+# Time Complexity = O(n+m) where m = len(avilable), n = len(left)+len(right)
 
 left, right = input().split('|')
 available = input()
