@@ -38,6 +38,7 @@ def main():
     readme_file.write(header)
 
     dirs = glob.glob("CS21-Science-Day-*/")
+    dirs.sort()
     for day in dirs:
         print(day)
         tasks = os.listdir(day)
