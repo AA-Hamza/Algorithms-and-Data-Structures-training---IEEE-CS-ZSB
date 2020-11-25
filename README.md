@@ -10,3 +10,5 @@
 |[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|[largest_rectangle.cpp](CS21-Science-Day-3/largest_rectangle.cpp)|
 |[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)|[cycle_detection.cpp](CS21-Science-Day-5/cycle_detection.cpp)|
 |[Flipping The Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)|[flipping_the_matrix.cpp](CS21-Science-Day-5/flipping_the_matrix.cpp)|
+|[Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|[huffman_decoding.cpp](CS21-Science-Day-6/huffman_decoding.cpp)|
+|[New Password](http://codeforces.com/contest/770/problem/A)|[new_password.cpp](CS21-Science-Day-6/new_password.cpp)|
