@@ -12,3 +12,7 @@
 |[Flipping The Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)|[flipping_the_matrix.cpp](CS21-Science-Day-5/flipping_the_matrix.cpp)|
 |[Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|[huffman_decoding.cpp](CS21-Science-Day-6/huffman_decoding.cpp)|
 |[New Password](http://codeforces.com/contest/770/problem/A)|[new_password.cpp](CS21-Science-Day-6/new_password.cpp)|
+|[Snaktower](https://codeforces.com/problemset/problem/767/A)|[snaktower.cpp](CS21-Science-Day-8/snaktower.cpp)|
+|[Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address/)|[defanging_an_ip_address.cpp](CS21-Science-Day-8/defanging_an_ip_address.cpp)|
+|[Registration System](https://codeforces.com/contest/4/problem/C)|[registration_system.cpp](CS21-Science-Day-9/registration_system.cpp)|
+|[Tom Riddles Diary](https://codeforces.com/contest/855/problem/A)|[tom_riddles_diary.cpp](CS21-Science-Day-9/tom_riddles_diary.cpp)|
