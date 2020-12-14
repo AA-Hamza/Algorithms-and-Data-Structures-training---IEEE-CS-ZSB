@@ -2,6 +2,8 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Amusing Joke](https://codeforces.com/problemset/problem/141/A)|[amusing_joke.py](CS21-Science-Day-10/amusing_joke.py)|
+|[Pangram](https://codeforces.com/problemset/problem/520/A)|[pangram.py](CS21-Science-Day-10/pangram.py)|
 |[Die Roll](http://codeforces.com/contest/9/problem/A)|[die_roll.py](CS21-Science-Day-1/die_roll.py)|
 |[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[left_rotation.c](CS21-Science-Day-1/left_rotation.c)|
 |[Find The Merge Of Two Joined Linked Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)|[find_the_merge_of_two_joined_linked_lists.cpp](CS21-Science-Day-2/find_the_merge_of_two_joined_linked_lists.cpp)|

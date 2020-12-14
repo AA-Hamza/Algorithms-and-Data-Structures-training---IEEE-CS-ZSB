@@ -15,7 +15,6 @@ do
     TITLE=$(echo "$FILE_NAME" | sed -r "s/(.+)\..+/\1/" | sed $'s/[^[:alnum:]\t]/ /g' | sed -e "s/\b\(.\)/\u\1/g")
     URL=$(grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" $file_path)
     if [ -z "$URL" ]; then
-        #echo -e "\033[0;31m Warning: Couldn't Find URL for " "$TITLE" " Passing it"
         echo "$(tput setaf 1)Warning: $(tput sgr0)Couldn't Find URL for" "$TITLE" "$(tput setaf 2)Passing it$(tput sgr0)."
         continue
     fi
