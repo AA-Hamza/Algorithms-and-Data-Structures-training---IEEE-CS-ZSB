@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define COLOR(x) (x-'a')
+#define COLOR(x) ((x)-'a')
 #define NUM_OF_ENGLISH_LETTERS 'z'-'a'+1
 
 int main()
@@ -25,7 +25,7 @@ int main()
 
     while (n--) {
         char smol_puppy;
-        scanf("%c", &smol_puppy);
+        scanf(" %c", &smol_puppy);
         puppies[COLOR(smol_puppy)]++;
     }
 
