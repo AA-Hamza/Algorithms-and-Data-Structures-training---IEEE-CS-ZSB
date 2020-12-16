@@ -2,7 +2,7 @@
 
 #Shell version of fill_README & shell is slower but it is just for learning purposes
 
-FILES=$(ls CS21-Science-Day-[1-9]*/*.[!o]*)
+FILES=$(ls -t CS21-Science-Day-[1-9]*/*.[!o]*)
 
 DESTINATION="README.md"
 mv "$DESTINATION" "${DESTINATION}_bak"
