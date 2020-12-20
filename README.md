@@ -2,6 +2,7 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Karen And Coffee](https://codeforces.com/contest/816/problem/B)|[karen_and_coffee.c](CS21-Science-Day-14/karen_and_coffee.c)|
 |[The Festive Evening](https://codeforces.com/problemset/problem/834/B)|[the_festive_evening.cpp](CS21-Science-Day-13/the_festive_evening.cpp)|
 |[Stripe](https://codeforces.com/contest/18/problem/C)|[stripe.c](CS21-Science-Day-12/stripe.c)|
 |[Doggo Recoloring](https://codeforces.com/contest/1025/problem/A)|[doggo_recoloring.c](CS21-Science-Day-11/doggo_recoloring.c)|
