@@ -35,8 +35,8 @@ struct compare_indexes
 
 int main()
 {
-    int n, guardes;
-    cin >> n >> guardes;
+    int n, guards;
+    cin >> n >> guards;
 
     //Every char (gate) would have 2 elements opening & closing [A, B, C, ..., ALPHANUM, A, B, C, ..., ALPHANUM*2]
     Gate *gateIndexes = new Gate[ALPHA_NUM*2];
@@ -57,7 +57,7 @@ int main()
     int result = 0;
     for (int i = 0; i < (ALPHA_NUM*2); ++i) {
         result += (int)gateIndexes[i].currState;
-        if (result > guardes) {
+        if (result > guards) {
             cout << "YES" << endl;
             return 0;
         }
