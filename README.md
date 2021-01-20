@@ -2,6 +2,7 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Fedor And New Game](https://codeforces.com/problemset/problem/467/B)|[fedor_and_new_game.c](CS21-Science-Day-19/fedor_and_new_game.c)|
 |[Raising Bacteria](https://codeforces.com/problemset/problem/579/A)|[raising_bacteria.c](CS21-Science-Day-18/raising_bacteria.c)|
 |[Equal](https://www.hackerrank.com/challenges/equal/problem)|[equal.c](CS21-Science-Day-17/equal.c)|
 |[Segv The Festive Evening](https://codeforces.com/problemset/problem/834/B)|[segv_the_festive_evening.cpp](CS21-Science-Day-13/segv_the_festive_evening.cpp)|
