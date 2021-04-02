@@ -2,10 +2,10 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Summer Sell Off](https://codeforces.com/contest/810/problem/B)|[summer_sell_off.py](CS21-Science-Day-20/summer_sell_off.py)|
 |[Fedor And New Game](https://codeforces.com/problemset/problem/467/B)|[fedor_and_new_game.c](CS21-Science-Day-19/fedor_and_new_game.c)|
 |[Raising Bacteria](https://codeforces.com/problemset/problem/579/A)|[raising_bacteria.c](CS21-Science-Day-18/raising_bacteria.c)|
 |[Equal](https://www.hackerrank.com/challenges/equal/problem)|[equal.c](CS21-Science-Day-17/equal.c)|
-|[Segv The Festive Evening](https://codeforces.com/problemset/problem/834/B)|[segv_the_festive_evening.cpp](CS21-Science-Day-13/segv_the_festive_evening.cpp)|
 |[The Festive Evening](https://codeforces.com/problemset/problem/834/B)|[the_festive_evening.cpp](CS21-Science-Day-13/the_festive_evening.cpp)|
 |[Karen And Coffee](https://codeforces.com/contest/816/problem/B)|[karen_and_coffee.c](CS21-Science-Day-14/karen_and_coffee.c)|
 |[Stripe](https://codeforces.com/contest/18/problem/C)|[stripe.c](CS21-Science-Day-12/stripe.c)|
