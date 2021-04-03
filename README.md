@@ -2,6 +2,7 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Minimum Ternary String](https://codeforces.com/contest/1009/problem/B)|[minimum_ternary_string.py](CS21-Science-Day-21/minimum_ternary_string.py)|
 |[Summer Sell Off](https://codeforces.com/contest/810/problem/B)|[summer_sell_off.py](CS21-Science-Day-20/summer_sell_off.py)|
 |[Fedor And New Game](https://codeforces.com/problemset/problem/467/B)|[fedor_and_new_game.c](CS21-Science-Day-19/fedor_and_new_game.c)|
 |[Raising Bacteria](https://codeforces.com/problemset/problem/579/A)|[raising_bacteria.c](CS21-Science-Day-18/raising_bacteria.c)|
