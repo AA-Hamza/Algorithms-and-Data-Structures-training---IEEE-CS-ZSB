@@ -2,6 +2,8 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Make It Equal](https://codeforces.com/contest/1065/problem/C)|[make_it_equal.cpp](CS21-Science-Day-23/make_it_equal.cpp)|
+|[Towers](https://codeforces.com/contest/479/problem/B)|[towers.py](CS21-Science-Day-22/towers.py)|
 |[Minimum Ternary String](https://codeforces.com/contest/1009/problem/B)|[minimum_ternary_string.py](CS21-Science-Day-21/minimum_ternary_string.py)|
 |[Summer Sell Off](https://codeforces.com/contest/810/problem/B)|[summer_sell_off.py](CS21-Science-Day-20/summer_sell_off.py)|
 |[Fedor And New Game](https://codeforces.com/problemset/problem/467/B)|[fedor_and_new_game.c](CS21-Science-Day-19/fedor_and_new_game.c)|
