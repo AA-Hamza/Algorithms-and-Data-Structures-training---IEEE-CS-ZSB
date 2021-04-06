@@ -2,6 +2,7 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Dzy Loves Physics](https://codeforces.com/problemset/problem/444/A)|[dzy_loves_physics.py](CS21-Science-Day-24/dzy_loves_physics.py)|
 |[Make It Equal](https://codeforces.com/contest/1065/problem/C)|[make_it_equal.cpp](CS21-Science-Day-23/make_it_equal.cpp)|
 |[Towers](https://codeforces.com/contest/479/problem/B)|[towers.py](CS21-Science-Day-22/towers.py)|
 |[Minimum Ternary String](https://codeforces.com/contest/1009/problem/B)|[minimum_ternary_string.py](CS21-Science-Day-21/minimum_ternary_string.py)|
