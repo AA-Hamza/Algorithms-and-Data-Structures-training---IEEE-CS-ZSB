@@ -3,7 +3,6 @@
     Time Complexity O(n)
     All my hoomies love dynamic programming. Recursion sucks (made by anti-recursion gang)
 """
-
 x = int(input())
 n = int(input())
 array = [0] * (x+1)
