@@ -2,6 +2,8 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Facetook Priority Wall](https://codeforces.com/contest/75/problem/B)|[facetook_priority_wall.py](CS21-Science-Day-32/facetook_priority_wall.py)|
+|[Fence](http://codeforces.com/contest/363/problem/B)|[fence.c](CS21-Science-Day-31/fence.c)|
 |[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|[the_power_sum.py](CS21-Science-Day-26/the_power_sum.py)|
 |[Geometric Progression](https://codeforces.com/contest/567/problem/C)|[geometric_progression.cpp](CS21-Science-Day-25/geometric_progression.cpp)|
 |[Dzy Loves Physics](https://codeforces.com/problemset/problem/444/A)|[dzy_loves_physics.py](CS21-Science-Day-24/dzy_loves_physics.py)|
