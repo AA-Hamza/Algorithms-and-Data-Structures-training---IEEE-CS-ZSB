@@ -2,6 +2,9 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Prison Transfer](http://codeforces.com/contest/427/problem/B)|[prison_transfer.py](CS21-Science-Day-36/prison_transfer.py)|
+|[Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/)|[build_tower.py](CS21-Science-Day-35/build_tower.py)|
+|[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)|[fraudulent_activity_notifications.py](CS21-Science-Day-34/fraudulent_activity_notifications.py)|
 |[Facetook Priority Wall](https://codeforces.com/contest/75/problem/B)|[facetook_priority_wall.py](CS21-Science-Day-32/facetook_priority_wall.py)|
 |[Fence](http://codeforces.com/contest/363/problem/B)|[fence.c](CS21-Science-Day-31/fence.c)|
 |[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|[the_power_sum.py](CS21-Science-Day-26/the_power_sum.py)|
