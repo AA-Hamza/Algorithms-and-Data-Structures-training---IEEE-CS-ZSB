@@ -2,6 +2,8 @@
 
 | Challenge | Solution |
 |:-------------:| :-----:|
+|[Beautiful Sets Of Points](http://codeforces.com/contest/268/problem/C)|[beautiful_sets_of_points.py](CS21-Science-Day-38/beautiful_sets_of_points.py)|
+|[Next Bigger Number With Same Digits](https://www.codewars.com/kata/55983863da40caa2c900004e)|[next_bigger_number_with_same_digits.py](CS21-Science-Day-37/next_bigger_number_with_same_digits.py)|
 |[Prison Transfer](http://codeforces.com/contest/427/problem/B)|[prison_transfer.py](CS21-Science-Day-36/prison_transfer.py)|
 |[Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/)|[build_tower.py](CS21-Science-Day-35/build_tower.py)|
 |[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)|[fraudulent_activity_notifications.py](CS21-Science-Day-34/fraudulent_activity_notifications.py)|
